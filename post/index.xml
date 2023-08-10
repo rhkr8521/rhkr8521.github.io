@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Aug 2023 22:43:48 +0900</lastBuildDate><atom:link href="https://rhkr8521.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>제목이다</title>
       <link>https://rhkr8521.github.io/post/first/</link>
       <pubDate>Thu, 10 Aug 2023 22:43:48 +0900</pubDate>
       
       <guid>https://rhkr8521.github.io/post/first/</guid>
-      <description></description>
+      <description>글이다</description>
     </item>
     
   </channel>
